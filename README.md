@@ -4,6 +4,7 @@
 
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pandaaaa906)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pandaaaa906)
+[![](https://img.shields.io/badge/blog-FFA500.svg?&style=for-the-badge&logo=blog&logoColor=white)](https://pandaaaa906.ga)
 
 </div>
 
