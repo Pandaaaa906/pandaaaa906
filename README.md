@@ -18,6 +18,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?logo=postgresql&style=for-the-badge&logoColor=white)
 
 </div>
 
