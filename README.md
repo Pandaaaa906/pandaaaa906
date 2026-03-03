@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandaaaa906&theme=dracula&show_icons=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=pandaaaa906&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats-one-rosy-83.vercel.app/api/top-langs/?username=pandaaaa906&theme=dracula&show_icons=true" />
+  <img height="200" src="https://github-readme-stats-one-rosy-83.vercel.app/api?username=pandaaaa906&show_icons=true&theme=dracula&include_all_commits=true" />
 </p>
 
 <div align="center">
